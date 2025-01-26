@@ -7,6 +7,7 @@
 
 ## 💻 Tecnologias Utilizadas
 <div style="display: inline-block"><br>
+          
 ### Linguagem e Libs
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="5%"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="5%"/>
