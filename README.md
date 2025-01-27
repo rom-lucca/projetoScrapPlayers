@@ -40,11 +40,11 @@ Certifique-se de ter instalado:
 
 1. **Clone o Repositório**
     ```bash
-    git clone https://github.com/rom-lucca/projetoImportacao.git
+    git clone https://github.com/rom-lucca/projetoScrapPlayers.git
     ```
     Navegue até o diretório do projeto:
     ```bash
-    cd projetoImportacao
+    cd projetoScrapPlayers
     ```
 
 2. **Execute o script**
